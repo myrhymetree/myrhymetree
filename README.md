@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/>
 </p>

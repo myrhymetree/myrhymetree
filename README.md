@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <p>
 <b>✨ Tech Stack</b>
 &nbsp;&nbsp;
+<br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>

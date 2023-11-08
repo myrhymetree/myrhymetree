@@ -1,5 +1,7 @@
 ### Backend Developer sjPark👋
 
+- 🌱 I’m currently learning ...
+
 <!--
 **myrhymetree/myrhymetree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +19,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrhymetree&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=myrhymetree&show_icons=true">
-
-[![sjPark's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myrhymetree)](https://github.com/myrhymetree/github-readme-stats)
 
 <p>
 <b>✨ Tech Stack</b>

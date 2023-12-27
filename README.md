@@ -1,6 +1,6 @@
 ### Backend Developer sjPark👋
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning operating system.
 
 <!--
 **myrhymetree/myrhymetree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
